@@ -16,6 +16,12 @@
     margin-bottom: 15px;
 }
 
-.cart-body {
+.card-body {
     color: antiquewhite;
+}
+
+.jumbotron {
+    padding-top: 10px;
+    padding-bottom: 5px;
+    margin-bottom: 0px;
 }
